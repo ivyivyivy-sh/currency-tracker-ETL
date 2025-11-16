@@ -21,11 +21,11 @@ An automated Python application that tracks daily exchange rates and stores them
   - CNY (Chinese Yuan)
 
 ## currency-exchange-tracker/
-├── currency_tracker.py      # Main application script
-├── database.py              # Database operations
-├── config.py               # Configuration settings
-├── test.py          # Easy-to-run tests
-├── requirements.txt        # Python dependencies
-├── currency_tracker.log    # Log file (created automatically)
-├── exchange_rates.db       # Database file (created automatically)
-└── README.md              # This file
+  - currency_tracker.py      # Main application script
+  - database.py              # Database operations
+  - config.py               # Configuration settings
+  - test.py          # Easy-to-run tests
+  - requirements.txt        # Python dependencies
+  - currency_tracker.log    # Log file (created automatically)
+  - exchange_rates.db       # Database file (created automatically)
+  - README.md              # This file
