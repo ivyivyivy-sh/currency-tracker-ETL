@@ -1,0 +1,62 @@
+2025-11-09 21:16:21,067 - INFO - Starting currency exchange rate tracker
+2025-11-09 21:16:21,086 - INFO - Database table verified/created successfully
+2025-11-09 21:16:21,086 - INFO - Fetching exchange rates for USD to ['EUR', 'GBP', 'SEK', 'CNY']
+2025-11-09 21:16:21,431 - INFO - Successfully fetched exchange rates from API
+2025-11-09 21:16:21,446 - INFO - Successfully inserted rate: USD->CNY = 7.1208
+2025-11-09 21:16:21,457 - INFO - Successfully inserted rate: USD->EUR = 0.86498
+2025-11-09 21:16:21,475 - INFO - Successfully inserted rate: USD->GBP = 0.76213
+2025-11-09 21:16:21,486 - INFO - Successfully inserted rate: USD->SEK = 9.5545
+2025-11-09 21:16:21,487 - INFO - Successfully processed 4 out of 4 currency rates
+2025-11-09 21:16:21,488 - INFO - Currency tracking completed successfully
+2025-11-16 20:41:00,921 - INFO - Database table verified/created successfully
+2025-11-16 20:41:00,926 - INFO - Fetching exchange rates for USD to ['EUR', 'GBP', 'SEK', 'CNY']
+2025-11-16 20:41:00,984 - INFO - Fetching exchange rates for USD to ['EUR', 'GBP', 'SEK', 'CNY']
+2025-11-16 20:41:00,985 - INFO - Successfully fetched exchange rates from API
+2025-11-16 20:41:00,987 - INFO - Database table verified/created successfully
+2025-11-16 20:41:01,001 - INFO - Successfully inserted rate: USD->EUR = 0.85
+2025-11-16 20:41:01,009 - INFO - Database table verified/created successfully
+2025-11-16 20:41:01,019 - INFO - Successfully inserted rate: USD->EUR = 0.85
+2025-11-16 20:41:01,036 - INFO - Successfully inserted rate: USD->GBP = 0.73
+2025-11-16 20:41:01,047 - INFO - Successfully inserted rate: USD->SEK = 8.75
+2025-11-16 20:41:01,059 - INFO - Successfully inserted rate: USD->CNY = 7.25
+2025-11-16 20:41:01,059 - INFO - Successfully processed 4 out of 4 currency rates
+2025-11-16 20:42:03,873 - INFO - Database table verified/created successfully
+2025-11-16 20:42:03,878 - INFO - Fetching exchange rates for USD to ['EUR', 'GBP', 'SEK', 'CNY']
+2025-11-16 20:42:03,886 - INFO - Fetching exchange rates for USD to ['EUR', 'GBP', 'SEK', 'CNY']
+2025-11-16 20:42:03,887 - INFO - Successfully fetched exchange rates from API
+2025-11-16 20:42:03,890 - INFO - Database table verified/created successfully
+2025-11-16 20:42:03,908 - INFO - Successfully inserted rate: USD->EUR = 0.85
+2025-11-16 20:42:03,917 - INFO - Database table verified/created successfully
+2025-11-16 20:42:03,927 - INFO - Successfully inserted rate: USD->EUR = 0.85
+2025-11-16 20:42:03,939 - INFO - Successfully inserted rate: USD->GBP = 0.73
+2025-11-16 20:42:03,951 - INFO - Successfully inserted rate: USD->SEK = 8.75
+2025-11-16 20:42:03,963 - INFO - Successfully inserted rate: USD->CNY = 7.25
+2025-11-16 20:42:03,964 - INFO - Successfully processed 4 out of 4 currency rates
+2025-11-16 20:43:38,952 - INFO - Database table verified/created successfully
+2025-11-16 20:43:38,954 - INFO - Fetching exchange rates for USD to ['EUR', 'GBP', 'SEK', 'CNY']
+2025-11-16 20:43:38,960 - INFO - Fetching exchange rates for USD to ['EUR', 'GBP', 'SEK', 'CNY']
+2025-11-16 20:43:38,960 - INFO - Successfully fetched exchange rates from API
+2025-11-16 20:43:38,962 - INFO - Database table verified/created successfully
+2025-11-16 20:43:38,974 - INFO - Successfully inserted rate: USD->EUR = 0.85
+2025-11-16 20:43:38,983 - INFO - Database table verified/created successfully
+2025-11-16 20:43:38,993 - INFO - Successfully inserted rate: USD->EUR = 0.85
+2025-11-16 20:43:39,003 - INFO - Successfully inserted rate: USD->GBP = 0.73
+2025-11-16 20:43:39,014 - INFO - Successfully inserted rate: USD->SEK = 8.75
+2025-11-16 20:43:39,026 - INFO - Successfully inserted rate: USD->CNY = 7.25
+2025-11-16 20:43:39,026 - INFO - Successfully processed 4 out of 4 currency rates
+2025-11-16 20:47:02,078 - INFO - Starting currency exchange rate tracker
+2025-11-16 20:47:02,084 - INFO - Database table verified/created successfully
+2025-11-16 20:47:02,084 - INFO - Fetching exchange rates for USD to ['EUR', 'GBP', 'SEK', 'CNY']
+2025-11-16 20:47:02,458 - INFO - Successfully fetched exchange rates from API
+2025-11-16 20:47:02,476 - INFO - Successfully inserted rate: USD->CNY = 7.0961
+2025-11-16 20:47:02,500 - INFO - Successfully inserted rate: USD->EUR = 0.85852
+2025-11-16 20:47:02,522 - INFO - Successfully inserted rate: USD->GBP = 0.75944
+2025-11-16 20:47:02,548 - INFO - Successfully inserted rate: USD->SEK = 9.4295
+2025-11-16 20:47:02,550 - INFO - Successfully processed 4 out of 4 currency rates
+2025-11-16 20:47:02,551 - INFO - Currency tracking completed successfully
+2025-11-16 20:48:39,296 - INFO - Database table verified/created successfully
+2025-11-16 20:48:39,298 - INFO - Fetching exchange rates for USD to ['EUR', 'GBP', 'SEK', 'CNY']
+2025-11-16 20:48:39,362 - INFO - Successfully fetched exchange rates from API
+2025-11-16 20:54:16,310 - INFO - Database table verified/created successfully
+2025-11-16 20:54:16,312 - INFO - Fetching exchange rates for USD to ['EUR', 'GBP', 'SEK', 'CNY']
+2025-11-16 20:54:16,469 - INFO - Successfully fetched exchange rates from API
